@@ -23,3 +23,5 @@ def nikita():
 
 def sergey():
     pass
+
+print('')
