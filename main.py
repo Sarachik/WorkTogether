@@ -16,6 +16,10 @@ def teacher():
     print('ведите x, y')
 
     print(9+8)
+    # кывомыфввлмфывмльфывлм
+    ф =8
+    в =8
+    print(ф+в)
 
 def dimab():
     pass
