@@ -25,6 +25,8 @@ def sergey():
     print('hello world')
     a = 22
     print(f'{a}')
+    while True:
+        print(12345)
 
 print('1')
 print('2')
