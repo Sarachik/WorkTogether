@@ -10,6 +10,7 @@ def artem():
     print('s')
     print(1 - 9)
     count = 13
+    count -= 13
 
 def kirill():
     pass
