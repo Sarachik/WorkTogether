@@ -7,7 +7,7 @@ def dimaF():
     pass
 
 def artem():
-    pass
+    print('s')
 
 def kirill():
     pass
