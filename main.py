@@ -24,4 +24,5 @@ def nikita():
 def sergey():
     pass
 
-print('')
+print('1')
+print('2')
