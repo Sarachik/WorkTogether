@@ -13,7 +13,9 @@ def kirill():
     pass
 
 def teacher():
-    pass
+    print('ведите x, y')
+
+    print(9+8)
 
 def dimab():
     pass
