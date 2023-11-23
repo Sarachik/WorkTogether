@@ -7,7 +7,10 @@ def dimaF():
     pass
 
 def artem():
-    pass
+    print('s')
+    print(1 - 9)
+    count = 13
+    count -= 13
 
 def kirill():
     pass
