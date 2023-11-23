@@ -10,11 +10,11 @@ def artem():
     pass
 
 def kirill():
-    pass
-
-def teacher():
     print('Hello world')
     print(2 + 7)
+
+def teacher():
+    pass
 def dimab():
     pass
 
@@ -23,7 +23,6 @@ def nikita():
 
 def sergey():
     pass
-print(5)
 
 print('1')
 print('2')
