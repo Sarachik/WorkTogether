@@ -23,6 +23,8 @@ def nikita():
 
 def sergey():
     print('hello world')
+    a = 22
+    print(f'{a}')
 
 print('1')
 print('2')
