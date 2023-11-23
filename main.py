@@ -16,7 +16,8 @@ def teacher():
     pass
 
 def dimab():
-    pass
+    print('blablabla')
+    print(100 + 100)
 
 def nikita():
     pass
