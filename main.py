@@ -1,7 +1,9 @@
 print('NewpROJECT')
 
 def dimaG():
-    pass
+    print('asdas')
+    print("fsdsd")
+    print(2+2)
 
 def dimaF():
     pass
