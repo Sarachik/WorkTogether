@@ -22,7 +22,7 @@ def nikita():
     pass
 
 def sergey():
-    pass
+    print('hello world')
 
 print('1')
 print('2')
