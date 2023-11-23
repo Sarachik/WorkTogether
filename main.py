@@ -13,7 +13,7 @@ def kirill():
     pass
 
 def teacher():
-    pass
+    print('Hello word')
 
 def dimab():
     pass
