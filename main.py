@@ -13,8 +13,8 @@ def kirill():
     pass
 
 def teacher():
-    print('Hello word')
-
+    print('Hello world')
+    print(2 + 7)
 def dimab():
     pass
 
@@ -23,6 +23,7 @@ def nikita():
 
 def sergey():
     pass
+print(5)
 
 print('1')
 print('2')
